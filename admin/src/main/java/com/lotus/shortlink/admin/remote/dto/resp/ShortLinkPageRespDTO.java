@@ -1,4 +1,4 @@
-package com.lotus.shortlink.project.dto.resp;
+package com.lotus.shortlink.admin.remote.dto.resp;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
